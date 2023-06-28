@@ -12,7 +12,8 @@ Second - I couldnt figure out how to make and run a python2.7 env through script
 ```source vol/bin/activate```
 
 After  this you can jump into the vol directory and download and run the script from there.
-Make sure to give necessary permissions to run the script that is (chmod +x install.sh)
+Make sure to give necessary permissions to run the script that is 
+```(chmod +x install.sh)```
 
 
 Also make sure to run the script as root.
