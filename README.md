@@ -5,7 +5,7 @@ A simple script which automates the process of installing volatility. There stil
 Now before you start running the script, there are a few prerequisites I need you to follow.
 
 First- Take a snapshot of your current machine, i.e before running the script.
-Second - I couldnt figure out how to make and run a python2.7 env through scripting. So I wnat you to run these following commands and then download and run the script.
+Second - I couldnt figure out how to make and run a python2.7 env through scripting. So I want you to run these following commands and then download and run the script.
 
 
 ```virtualenv -p /usr/bin/python2.7 vol```   (you can give any name for the directory, but for now I am going to vol as my directory name) 
